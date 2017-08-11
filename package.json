@@ -1,0 +1,25 @@
+{
+  "name": "webpackinto",
+  "version": "1.0.0",
+  "description": "WebPack Into",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parshu555/WebPackIntro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parshu555/WebPackIntro/issues"
+  },
+  "homepage": "https://github.com/parshu555/WebPackIntro#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "require": "^2.4.20",
+    "webpack": "^3.5.3"
+  }
+}
